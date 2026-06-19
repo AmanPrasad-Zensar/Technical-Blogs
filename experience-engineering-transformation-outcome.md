@@ -47,5 +47,5 @@ These agentic layers require:
     * Seamless API orchestration 
     * Governed data access
 This enables autonomous workflows where systems collaborate to deliver outcomes—with minimal human intervention. 
-1. ### Embedded and Invisible Automation</u>
+1. ### Embedded and Invisible Automation
 High-performing organizations are embedding automation directly into workflows—removing friction without disrupting the user journey. The focus is not on showcasing automation, but on making it indistinguishable from the experience itself. 
