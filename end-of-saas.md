@@ -3,7 +3,7 @@ type: Technical Blog
 title: End of SaaS:Age of Intelligent Platforms 
 description: SaaS fades as AI-driven intelligent platforms replace fragmented tools with outcome-focused, autonomous systems.
 timestamp: 2026-06-19:03:25 last-modified time
-Author: * Aman Samuel Prasad *
+Author: Aman Samuel Prasad
 ---
 
 # End of SaaS: Age of Intelligent Platforms
