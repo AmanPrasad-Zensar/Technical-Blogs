@@ -34,18 +34,18 @@ In this model, experience is not a layer—it is the connective fabric of transf
 
 Key Trends Shaping Experience Engineering
 
-1. ### AI-Driven, Context-Aware Experiences
+1. **AI-Driven, Context-Aware Experiences**
 AI is enabling experiences that adapt in real time—based on user behavior, business context, and operational data. 
 From dynamic workflows to predictive interfaces, systems are evolving from reactive to proactive—anticipating needs and guiding actions. 
-1. ### Convergence of Platforms and Experiences
+2. **Convergence of Platforms and Experiences**
 Organizations are moving away from siloed applications toward integrated platform ecosystems. 
 Experience Engineering ensures these platforms are not just connected—but orchestrated—so users experience a unified journey rather than a collection of tools.
-1. ### Agentic and System-to-System Experiences
+3. **Agentic and System-to-System Experiences**
 A defining shift in 2026 is designing experiences not only for users, but also for AI agents. 
 These agentic layers require:
-    * Structured, discoverable capabilities 
-    * Seamless API orchestration 
-    * Governed data access
+   * Structured, discoverable capabilities 
+   * Seamless API orchestration 
+   * Governed data access
 This enables autonomous workflows where systems collaborate to deliver outcomes—with minimal human intervention. 
-1. ### Embedded and Invisible Automation
+4. **Embedded and Invisible Automation**
 High-performing organizations are embedding automation directly into workflows—removing friction without disrupting the user journey. The focus is not on showcasing automation, but on making it indistinguishable from the experience itself. 
