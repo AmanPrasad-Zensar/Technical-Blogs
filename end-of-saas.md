@@ -8,7 +8,7 @@ Author: Aman Samuel Prasad
 
 # End of SaaS: Age of Intelligent Platforms
 
-Let’s be blunt: the SaaS era as we know it is ending. 
+Let’s be blunt: SaaS era as we know it is ending. 
 
 Not slowly. Not gracefully. But decisively.
 
@@ -16,8 +16,8 @@ For over a decade, SaaS has been the default model for software—scalable, clou
 
 ## Cracks Were Always There—Now They’re Breaking Open
 
-SaaS solved distribution. It never solved experience, instead it left enterprises with:
-* A maze of tools that don’t talk to each other 
+SaaS solved distribution. It never created experience, instead it left enterprises with:
+* A maze of tools that don’t intereact  
 * Endless context switching across fragmented workflows 
 * Data trapped in application silos 
 * Pricing models built for humans—just as humans are being removed from the loop
@@ -28,7 +28,7 @@ SaaS didn’t fail. It just outlived its design assumptions.
 ## AI Isn’t a Feature—It’s a Reset Button 
 
 Most companies are still treating AI as an “add-on” to SaaS. That’s the wrong mental model. AI doesn’t improve software—it replaces how we interact with it. The interface is no longer a dashboard. The interface is intent. Instead of navigating tools, users now say: 
-“Generate a quarterly sales forecast.” 
+“Generate a quarterly sales forecast.”
 And the system figures it out—pulling data, running models, orchestrating workflows across multiple platforms. No clicks! No tabs! No friction! 
 This is the shift from **software you use** to **systems that act**.
 
