@@ -37,7 +37,7 @@ Key Trends Shaping Experience Engineering
 1. ### AI-Driven, Context-Aware Experiences
 AI is enabling experiences that adapt in real time—based on user behavior, business context, and operational data. 
 From dynamic workflows to predictive interfaces, systems are evolving from reactive to proactive—anticipating needs and guiding actions. 
-1. ###Convergence of Platforms and Experiences
+1. ### Convergence of Platforms and Experiences
 Organizations are moving away from siloed applications toward integrated platform ecosystems. 
 Experience Engineering ensures these platforms are not just connected—but orchestrated—so users experience a unified journey rather than a collection of tools.
 1. ### Agentic and System-to-System Experiences
