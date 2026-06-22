@@ -94,8 +94,8 @@ Whereas, a cloud transformation is a strategic evolution that takes time and inv
 
 A comparison in a quick reference summary table.
 
-|------|--------|--------|
-|  | **Cloud Migration**  | **Cloud Transformation** |
+|      | **Cloud Migration**  | **Cloud Transformation** |
+|------|----------------------|--------------------------|
 | Goals |A simple, “lift-and-shift” move from on-prem to cloud |Completely modernize how the organization uses the cloud and technology |
 | Timescale |Short to medium (a few months) |Medium to long-term (1 year or more) |
 | Risks |Low to mid-risk |Higher risk, but long-term gains |
