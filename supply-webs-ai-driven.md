@@ -24,6 +24,7 @@ Supply webs, by contrast, behave more like living systems:
 * It dynamically re-routes supply and demand
 * It Coordinates decisions across multiple nodes simultaneously
 * It Learns and improves with every interaction 
+
 The shift is not incremental. It is architectural.
 
 ## AI as the Orchestration Layer
