@@ -92,11 +92,11 @@ Whereas, a cloud transformation is a strategic evolution that takes time and inv
 * Long-Term Value: Agility, scalability, and innovation are integral outcomes for any transformation.  
 * Larger Complexity and Investment: Business leaders need to know that the budgets for a transformation will be larger, but so should the ROI and outcomes.  
 
-A comparison in a quick reference summary table.
+A comparison in a quick reference summary table:
 
 |      | **Cloud Migration**  | **Cloud Transformation** |
 |------|----------------------|--------------------------|
-| Goals |A simple, “lift-and-shift” move from on-prem to cloud |Completely modernize how the organization uses the cloud and technology |
+| Goals |A simple, “lift-and-shift” move from on premises (on-prem) to cloud |Completely modernize how the organization uses the cloud and technology |
 | Timescale |Short to medium (a few months) |Medium to long-term (1 year or more) |
 | Risks |Low to mid-risk |Higher risk, but long-term gains |
 | Focus |Infrastructure, app, and storage-focused |IT and operational transformation |
