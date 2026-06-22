@@ -10,6 +10,7 @@ Author: Aman Samuel Prasad
 
 Cities are getting smarter. Or at least, that’s the narrative. Sensors everywhere. Connected infrastructure. AI-enabled services. Digital twins. Autonomous mobility pilots.
 On paper, it looks like progress. On the ground, it often feels like chaos. 
+
 In 2026, the uncomfortable truth is this: most smart city initiatives are not failing because of lack of technology—they are failing because of lack of integration.
 
 ## The Illusion of “Smart”
