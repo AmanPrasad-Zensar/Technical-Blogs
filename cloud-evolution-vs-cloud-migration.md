@@ -95,12 +95,12 @@ Whereas, a cloud transformation is a strategic evolution that takes time and inv
 A comparison in a quick reference summary table.
 
 |------|--------|--------|
-| |**Cloud Migration** |**Cloud Transformation** |
-|Goals|A simple, “lift-and-shift” move from on-prem to cloud |Completely modernize how the organization uses the cloud and technology  |
-|Timescale |Short to medium (a few months) |Medium to long-term (1 year or more) |
-|Risks |Low to mid-risk | Higher risk, but long-term gains |
-|Focus |Infrastructure, app, and storage-focused |IT and operational transformation  |
-|Outcome | An IT upgrade  |An innovation and productivity upgrade |
+|  | **Cloud Migration**  | **Cloud Transformation** |
+| Goals |A simple, “lift-and-shift” move from on-prem to cloud |Completely modernize how the organization uses the cloud and technology |
+| Timescale |Short to medium (a few months) |Medium to long-term (1 year or more) |
+| Risks |Low to mid-risk |Higher risk, but long-term gains |
+| Focus |Infrastructure, app, and storage-focused |IT and operational transformation |
+| Outcome |An IT upgrade  |An innovation and productivity upgrade |
 
 ## Final Thought
 Cloud migration was never the destination. It was the entry point. The organizations are still waiting for ROI from cloud investments that do not fail—they are unfinished. Because the real value of cloud is not in where you run your systems. It is in how intelligently you evolve them.
