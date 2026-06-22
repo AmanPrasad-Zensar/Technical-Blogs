@@ -17,6 +17,7 @@ Traditional supply chains were designed for predictability. They relied on:
 * Static supplier relationships 
 * Forecast-driven decision making 
 * Limited visibility beyond immediate tiers
+
 This worked in stable environments. But today’s reality is anything but stable—geopolitical shifts, demand volatility, climate disruptions, and continuous market shocks influence the market constantly. Linear systems cannot adapt the volatile markets fast enough.
 Supply webs, by contrast, behave more like living systems:
 * It continuously senses changes across the ecosystem
