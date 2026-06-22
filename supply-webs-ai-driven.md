@@ -32,6 +32,7 @@ What makes supply webs possible is not connectivity alone—it is intelligence. 
 * Predictive risk detection across suppliers, logistics, and operations 
 * Autonomous decision-making for routing, sourcing, and inventory 
 * Continuous optimization of cost, service levels, and resilience
+
 Instead of planning periodically, systems now adjust continuously. Instead of reacting to disruptions, they anticipate and mitigate them. The result: a shift from **control-based management to intelligence-driven orchestration**.
 
 ## The Rise of Autonomous Operations
@@ -40,6 +41,7 @@ The most transformative change is the move toward autonomy. AI is no longer just
 * Switch suppliers in response to risk signals 
 * Optimize logistics routes in real time 
 * Balance cost, speed, and sustainability dynamically
+
 Human intervention becomes the exception, not the norm. This is not about eliminating humans—it is about elevating their role from execution to oversight, strategy, and exception management.
 
 ## Data: The Foundation of the Web
@@ -47,6 +49,7 @@ A supply web is only as strong as its data foundation. Unlike traditional supply
 * Unified, real-time data across enterprise systems
 * Integration across suppliers, partners, and platforms
 * High-quality, governed, and trusted data pipelines
+
 This creates a shared, continuously updated view of the ecosystem—enabling AI to reason, predict, and act. Without this, autonomy is not possible.
 
 ## Ecosystem Thinking: Beyond the Enterprise Boundary
@@ -62,6 +65,7 @@ Supply webs extend beyond organizational boundaries. They require enterprises to
 * An automotive manufacturer switches component sourcing instantly when a tier-2 supplier faces disruption, leveraging shared ecosystem visibility and AI-driven risk signals.
 
 * A pharma company accelerates drug distribution by orchestrating production, cold chain logistics, and regional demand signals across partners—reducing delays and ensuring availability.
+
 Competitive advantage shifts from individual efficiency to ecosystem effectiveness.
 
 ## Resilience as a Core Design Principle
