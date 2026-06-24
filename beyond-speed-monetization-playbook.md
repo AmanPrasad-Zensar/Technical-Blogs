@@ -117,4 +117,6 @@ Execution—not technology—will define success.
 
 ### Final Thought
 5.5G marks the moment telecom stops being a cost center of digital economy—and becomes a value creator. For the first time, networks are programmable, intelligent, and monetizable at scale. 
-This is the shift from **carrying traffic to capturing value**. The next decade of telecom will not be defined by who builds the fastest networks. But by who monetizes them best. Because in the 5.5G era, connectivity is expected. Revenue is engineered.
+This is the shift from **carrying traffic to capturing value**. The next decade of telecom will not be defined by who builds the fastest networks. But by who monetizes them best. 
+
+Because in the 5.5G era, connectivity is expected. Revenue is engineered.
