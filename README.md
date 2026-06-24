@@ -8,3 +8,4 @@ List of technical blogs created in markdown format implementing OKF for document
 1. Smart Cities, Dumb Silos: Integration Gap Reality Check.
 1. Cloud Evolution vs Cloud Migration
 1. Player Intelligence Drive Gaming Billions
+1. Beyond Speed: 5.5G Monetization-Playbook
