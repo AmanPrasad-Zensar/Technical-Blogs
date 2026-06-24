@@ -27,7 +27,7 @@ The network is no longer the product. It is the **revenue engine**.
 
 The industry’s biggest miss was assuming demand would naturally follow deployment. Instead, operators faced:
 
-- Flat ARPU despite rising data consumption
+- Flat Average Revenue Per User (ARPU) despite rising data consumption
 - OTT players capturing most value
 - Enterprise use cases stuck in pilots
 - Limited differentiation beyond speed
@@ -78,7 +78,7 @@ These are not connectivity deals. These are **outcome-based, multi-million-dolla
 ### Monetization Model 5: Experience-Based Pricing
 Speed is no longer a differentiator. Experience is. 5.5G enables dynamic, context-aware pricing models:
 
-- Premium QoE for gaming, AR/VR, and immersive media
+- Premium Quality of Experience (QoE) for gaming, AR/VR, and immersive media
 - Event-based pricing for high-density usage scenarios
 - Tiered experiences for consumers and enterprises
 
