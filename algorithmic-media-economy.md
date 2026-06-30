@@ -6,7 +6,7 @@ timestamp: 2026-06-30:12:28 last-modified time
 Author: Aman Samuel Prasad
 ---
 
-# Blog 8: Algorithmic Media Economy: Personalization vs Privacy Balance
+# Algorithmic Media Economy: Personalization vs Privacy Balance
 
 In today’s media ecosystem, algorithms are the new editors. From streaming platforms to social feeds and news apps, every interaction is curated, ranked, and delivered through data-driven intelligence. Personalization has moved from being a differentiator to a baseline expectation. But with precision comes a price. As media companies double down on algorithmic personalization to drive engagement and revenue, they face a rising tension: **how far can personalization go before it erodes privacy and trust?**
 This is not just a technology question. It is an ethical and architectural challenge.
