@@ -114,7 +114,6 @@ Trust becomes a measurable business asset—impacting retention, brand equity, a
 ## The Road Ahead: Responsible Algorithms
 
 The next era of media will be defined by **responsibly intelligent systems**.
-
 Key principles:
 - Explainable AI  
 - User control over personalization  
@@ -123,6 +122,4 @@ Key principles:
 
 ## Final Thought
 
-Personalization made media addictive.  
-Privacy will determine if it remains trustworthy. The future is not choosing one over the other—but engineering both together.
-Because in the age of algorithms, attention drives revenue—**but trust sustains it.**
+Personalization made media addictive. Privacy will determine if it remains trustworthy. The future is not choosing one over the other—but engineering both together. Because in the age of algorithms, attention drives revenue—**but trust sustains it.**
